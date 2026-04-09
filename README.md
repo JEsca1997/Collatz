@@ -1,7 +1,7 @@
 # Collatz Conjecture — Complete Proof
 
 **Author:** Joseph Robert Escamilla
-**Status:** Complete — 100% Proved (unconditional)
+**Status:** Preprint — complete manuscript, not yet formally peer-reviewed
 **Patent:** US 11,954,561 B2 (Reissue Pending)
 **Repository:** https://github.com/JEsca1997/Collatz
 
@@ -39,9 +39,9 @@ operator. No heuristic or probabilistic argument is invoked.
 
 | File | Description |
 |---|---|
-| `collatz_pt_1.pdf` | Part 1: No Non-Trivial Cycles (canonical referee-closed version) |
-| `collatz_pt_2.pdf` | Part 2: No Divergent Trajectories (canonical referee-closed version) |
-| `collatz_complete.pdf` | Complete unified proof (canonical referee-closed version) |
+| `collatz_pt_1.pdf` | Part 1: No Non-Trivial Cycles |
+| `collatz_pt_2.pdf` | Part 2: No Divergent Trajectories |
+| `collatz_complete.pdf` | Complete unified proof |
 
 ## OFI Framework
 

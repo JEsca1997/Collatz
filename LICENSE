@@ -1,31 +1,114 @@
-Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)
+PROPRIETARY LICENSE — ALL RIGHTS RESERVED
 
 Copyright (c) 2026 Joseph Robert Escamilla. All rights reserved.
 
-You are free to:
-  Share — copy and redistribute the material in any medium or format
-  Adapt — remix, transform, and build upon the material
+This work — including all mathematical proofs, frameworks, derivations,
+written text, diagrams, and supporting materials contained in this
+repository — is the sole and exclusive intellectual property of
+Joseph Robert Escamilla (the "Author").
 
-Under the following terms:
-  Attribution — You must give appropriate credit to the author (Joseph Robert
-  Escamilla), provide a link to this repository, and indicate if changes were
-  made. You may do so in any reasonable manner, but not in any way that
-  suggests the author endorses you or your use.
+-------------------------------------------------------------------------------
+WHAT YOU MAY DO (narrow permitted use)
+-------------------------------------------------------------------------------
 
-  NonCommercial — You may not use the material for commercial purposes without
-  a separate written license from the author.
+You are permitted to:
 
-  No additional restrictions — You may not apply legal terms or technological
-  measures that legally restrict others from doing anything the license permits.
+1. READ this work for personal study and education.
 
-PATENT NOTICE:
-  Certain applications of the mathematical frameworks disclosed in this
-  repository are covered by United States Patent No. 11,954,561 B2
-  (Application No. 17/099,574), with a broadening reissue application
-  currently pending before the United States Patent and Trademark Office.
-  Commercial use of any system, method, or apparatus that practices the
-  claims of that patent requires a separate written license from the inventor.
-  Academic, research, and educational use of the mathematical results is
-  permitted under CC BY-NC 4.0 above.
+2. CITE this work, with full and accurate attribution to the Author, solely
+   for the purpose of academic criticism, commentary, or feedback directed
+   at the Author or the mathematical community.
 
-Full license text: https://creativecommons.org/licenses/by-nc/4.0/legalcode
+3. PROVIDE CRITIQUE OR FEEDBACK to the Author via the issue tracker of this
+   repository or other direct communication channels.
+
+These permissions do not constitute a license to any patent, trade secret,
+or other intellectual property right of the Author beyond what is explicitly
+stated above.
+
+-------------------------------------------------------------------------------
+WHAT YOU MAY NOT DO (all other uses prohibited)
+-------------------------------------------------------------------------------
+
+Without prior written permission from the Author, you may NOT:
+
+1. REDISTRIBUTE this work or any portion of it, in original or modified form,
+   by any means (electronic, print, or otherwise).
+
+2. MODIFY, ADAPT, TRANSLATE, or create DERIVATIVE WORKS based on this work.
+
+3. SUBMIT this work or any portion of it — in original, modified, or
+   derivative form — to any journal, preprint server (including arXiv),
+   conference, repository, or any other publication or distribution channel,
+   under any name (including your own).
+
+4. CLAIM INDEPENDENT DISCOVERY of any result presented in this work, or
+   submit any work that incorporates, is substantially derived from, or was
+   informed by reading this work, without explicit written acknowledgment
+   of the Author's prior disclosure and written permission.
+
+5. USE this work for any COMMERCIAL PURPOSE, including but not limited to
+   incorporation into products, services, training data for AI/ML systems,
+   or monetized content of any kind.
+
+6. REMOVE, OBSCURE, OR ALTER any copyright notice, patent notice, authorship
+   attribution, or license terms from this work or any copy of it.
+
+7. USE this work in any MILITARY, WEAPONS, or AUTONOMOUS OFFENSIVE SYSTEMS
+   application.
+
+-------------------------------------------------------------------------------
+PATENT NOTICE
+-------------------------------------------------------------------------------
+
+The Ordered Fractional Integration (OFI) framework and its applications to
+brain-computer interfaces, tachyonic communication systems, and eigenmatrix
+state management are covered by:
+
+    United States Patent No. 11,954,561 B2
+    Application No. 17/099,574
+    Inventor: Joseph Robert Escamilla
+    Reissue application pending before the USPTO as of April 2026.
+
+NO LICENSE to the claims of US 11,954,561 B2 or its reissue is granted by
+this document or by access to this repository. Any commercial use of a
+system, method, or apparatus that practices those claims requires a separate
+written patent license from the Author.
+
+-------------------------------------------------------------------------------
+PRIORITY AND AUTHORSHIP RECORD
+-------------------------------------------------------------------------------
+
+The results in this repository were developed by Joseph Robert Escamilla and
+first disclosed publicly via this repository and the patent record referenced
+above. The GitHub commit history and the USPTO filing date of Application
+No. 17/099,574 (November 16, 2020) together establish an unambiguous priority
+record for all results herein.
+
+Any submission to a journal, preprint server, or other venue that presents
+these results — or results substantially derived from these results — without
+the Author's written permission and full authorship credit constitutes a
+violation of this license and may constitute academic fraud and/or
+infringement of the Author's intellectual property rights.
+
+-------------------------------------------------------------------------------
+DISCLAIMER
+-------------------------------------------------------------------------------
+
+This work is provided for transparency and to establish public priority.
+The Author makes no warranty, express or implied, as to the correctness,
+completeness, or fitness for any particular purpose of the mathematical
+arguments presented. Independent verification is encouraged and welcomed
+via the issue tracker; formal peer review is the responsibility of the
+mathematical community.
+
+-------------------------------------------------------------------------------
+CONTACT AND LICENSING INQUIRIES
+-------------------------------------------------------------------------------
+
+For permissions beyond the narrow reading/criticism use above, patent
+licensing, collaboration proposals, or any other inquiry, open an issue
+in this repository or refer to the contact information in the USPTO patent
+record for Application No. 17/099,574.
+
+All rights not explicitly granted herein are reserved by the Author.

@@ -6,48 +6,87 @@
 
 ---
 
-## Permitted Uses
+## Overview
 
-The mathematical results, proofs, and documents in this repository may be
-freely used for the following purposes, subject to proper attribution:
+This repository exists for one purpose: to establish a public, timestamped,
+attributable record of the Author's mathematical results, and to invite
+criticism and feedback from the mathematical community.
 
-- **Academic research** — reading, citing, building upon, or critiquing the
-  results in peer-reviewed publications or preprints
-- **Education** — teaching, course materials, lecture notes, and student work
-- **Personal study** — private reading and non-commercial self-education
-- **Open-source software** — incorporating results into non-commercial,
-  openly licensed software projects with attribution
+It is NOT a grant of rights. It is NOT an open-source release. It is NOT
+an invitation to redistribute, republish, or build upon this work without
+explicit written permission.
 
-## Restricted Uses
+---
 
-The following uses require a separate written license from the author:
+## The Only Permitted Uses
 
-- **Commercial applications** — any use in a product, service, or system
-  that is sold, licensed, or otherwise monetized
-- **Patent licensing** — any use of methods covered by US Patent No.
-  11,954,561 B2 or its pending reissue requires a patent license
-- **Commercial AI/ML training** — training commercial models on the full
-  text of these proofs for commercial deployment
-- **Military or weapons applications** — use in autonomous weapons systems
-  or offensive military technology is prohibited without explicit written
-  consent from the author
+| Use | Permitted? |
+|---|---|
+| Reading for personal study | Yes |
+| Citing with full attribution for criticism or feedback | Yes |
+| Opening an issue to provide mathematical critique | Yes |
+| Sharing a link to this repository (not the content itself) | Yes |
+| Everything else listed below | No — see prohibited uses |
 
-## Attribution Requirements
+---
 
-Any permitted use must include the following attribution:
+## Prohibited Uses
 
-> Joseph Robert Escamilla, "A Complete Proof of the Collatz Conjecture via Arc-Division and Baker's Theorem",
-> https://github.com/JEsca1997/Collatz (2026).
-> Related patent: US 11,954,561 B2.
+The following are explicitly prohibited without prior written permission
+from the Author:
 
-## Disclaimer
+**Redistribution**
+- Copying and posting this work elsewhere (Reddit, arXiv, ResearchGate, Academia.edu, etc.)
+- Mirroring this repository or its contents
+- Including this work in any collection, anthology, or dataset
 
-The results in this repository are provided as-is. The author makes no
-warranty, express or implied, as to the correctness, completeness, or
-fitness for any particular purpose of the mathematical arguments presented.
-Independent verification is encouraged.
+**Modification and Derivative Works**
+- Editing, translating, or adapting any portion of this work
+- Producing a "corrected", "simplified", or "extended" version
+- Incorporating any portion into another paper, thesis, or manuscript
+
+**Submission and Publication**
+- Submitting this work — in whole, in part, or in derived form — to any
+  journal, preprint server, conference, or other publication channel
+- Submitting any work that presents these results as independently discovered
+  without explicit written acknowledgment of this repository as prior art
+
+**Commercial Use**
+- Using any portion of this work in a commercial product or service
+- Training any commercial AI or machine learning model on this work
+- Any use that generates revenue, directly or indirectly
+
+**Misrepresentation**
+- Removing or obscuring authorship, copyright, or patent notices
+- Presenting these results as your own without the Author's written consent
+- Claiming independent discovery of results you learned from this repository
+
+---
+
+## Why These Restrictions Exist
+
+Mathematical results, once public, are vulnerable to appropriation. The
+Author has already observed third parties attempting to republish portions
+of this work under different authorship. These restrictions exist to protect
+the Author's intellectual priority, which is documented by:
+
+1. The USPTO filing date of Application No. 17/099,574 (November 16, 2020)
+2. The grant of US Patent No. 11,954,561 B2
+3. The commit history of this repository
+4. The reissue application currently pending before the USPTO
+
+---
+
+## Patent Notice
+
+The methods and systems described in these results are covered by
+**US Patent No. 11,954,561 B2**. No patent license is granted by
+access to or use of this repository.
+
+---
 
 ## Contact
 
-For licensing inquiries, open an issue in this repository or refer to the
-contact information in the patent record for US 11,954,561 B2.
+To request permission for any use not listed as permitted above, or for
+patent licensing inquiries, open an issue in this repository or refer to
+the USPTO patent record for Application No. 17/099,574.
