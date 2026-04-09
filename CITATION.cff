@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+type: software
+title: "A Complete Proof of the Collatz Conjecture via Arc-Division and Baker's Theorem"
+authors:
+  - family-names: Escamilla
+    given-names: Joseph Robert
+repository-code: "https://github.com/JEsca1997/Collatz"
+year: 2026
+license: CC-BY-NC-4.0
+abstract: >
+  Part of the Ordered Fractional Integration (OFI) research programme.
+  Related patent: US 11,954,561 B2 (reissue pending).
+keywords:
+  - mathematics
+  - OFI
+  - ordered-fractional-integration
+  - millennium-prize
+  - patent
